@@ -88,4 +88,4 @@ class HX711
 		void power_up();
 };
 
-#endif /* HX711_h */
+#endif
